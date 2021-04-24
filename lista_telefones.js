@@ -2,6 +2,7 @@
 
 let nome = ["Alessandra", "Jose", "Maria"];
 /*
+let i = 0;
 let encontrado = false;
 
 while (!encontrado) {
